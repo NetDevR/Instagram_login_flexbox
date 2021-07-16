@@ -17,20 +17,20 @@ body{
     justify-content: center;
 }
 
-instagram-bedbox{
+.instagram-bedbox{
     display: flex;
     align-items: center;
     justify-content: start;
     width: 60%;
-    height: 100vh
+    height: 100vh;
 }
 
-instagram-phone{
+.instagram-phone{
     display: flex;
     align-items: center;
     justify-content: center;
     width: 50%;
 }
-instagram-phone img{
-    height: 50rem;
+.instagram-phone img{
+    height: 200px;
 }
