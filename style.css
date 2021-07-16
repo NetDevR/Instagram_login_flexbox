@@ -131,3 +131,24 @@ body{
     align-items: center;
 }
 
+/*media queries */
+
+@media (max-width: 1024px){
+    .instagram-bedbox{
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px) {
+    .instagram-bedbox{
+        width: 90%;
+    }
+
+    .instagram.instagram-phone{
+        display: none;
+    }
+    
+    .instagram-continue{
+        width: 100%;
+    }
+}
