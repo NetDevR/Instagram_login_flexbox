@@ -140,6 +140,10 @@ body{
 }
 
 @media (max-width: 650px) {
+    .body{
+        background-color: white;
+    }
+
     .instagram-bedbox{
         width: 90%;
     }
